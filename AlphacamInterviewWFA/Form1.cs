@@ -42,7 +42,7 @@ namespace AlphacamInterviewWFA
                 using (StreamWriter outputFile = new StreamWriter(Path.Combine(browse.SelectedPath, "1000numbers.txt")))
                 {
                     Random randomNumber = new Random();
-                    int count = 0;
+                    int count = 1;
 
                     outputFile.Write("1000 random numbers" + Environment.NewLine);
                     outputFile.Write(Environment.NewLine);
@@ -56,7 +56,7 @@ namespace AlphacamInterviewWFA
                         //if temp # 10 != 3 then the last digit is not the number 3
                         if (temp % 3 != 0 && temp % 10 != 3)
                         {
-                            outputFile.Write("{0:N0}", temp + Environment.NewLine);
+                            outputFile.Write("{0:N0}", count + " " + temp + Environment.NewLine);
                             count++;
                         }
                     }
