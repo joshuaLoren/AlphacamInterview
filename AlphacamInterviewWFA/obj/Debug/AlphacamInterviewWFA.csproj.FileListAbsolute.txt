@@ -1,0 +1,10 @@
+C:\Users\small\Desktop\Development\AlphacamInterview\AlphacamInterviewWFA\AlphacamInterviewWFA\bin\Debug\AlphacamInterviewWFA.exe.config
+C:\Users\small\Desktop\Development\AlphacamInterview\AlphacamInterviewWFA\AlphacamInterviewWFA\bin\Debug\AlphacamInterviewWFA.exe
+C:\Users\small\Desktop\Development\AlphacamInterview\AlphacamInterviewWFA\AlphacamInterviewWFA\bin\Debug\AlphacamInterviewWFA.pdb
+C:\Users\small\Desktop\Development\AlphacamInterview\AlphacamInterviewWFA\AlphacamInterviewWFA\obj\Debug\AlphacamInterviewWFA.csprojAssemblyReference.cache
+C:\Users\small\Desktop\Development\AlphacamInterview\AlphacamInterviewWFA\AlphacamInterviewWFA\obj\Debug\AlphacamInterviewWFA.Properties.Resources.resources
+C:\Users\small\Desktop\Development\AlphacamInterview\AlphacamInterviewWFA\AlphacamInterviewWFA\obj\Debug\AlphacamInterviewWFA.csproj.GenerateResource.cache
+C:\Users\small\Desktop\Development\AlphacamInterview\AlphacamInterviewWFA\AlphacamInterviewWFA\obj\Debug\AlphacamInterviewWFA.csproj.CoreCompileInputs.cache
+C:\Users\small\Desktop\Development\AlphacamInterview\AlphacamInterviewWFA\AlphacamInterviewWFA\obj\Debug\AlphacamInterviewWFA.exe
+C:\Users\small\Desktop\Development\AlphacamInterview\AlphacamInterviewWFA\AlphacamInterviewWFA\obj\Debug\AlphacamInterviewWFA.pdb
+C:\Users\small\Desktop\Development\AlphacamInterview\AlphacamInterviewWFA\AlphacamInterviewWFA\obj\Debug\AlphacamInterviewWFA.Form1.resources
