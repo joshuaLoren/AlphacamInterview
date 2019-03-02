@@ -8,3 +8,7 @@ C:\Users\small\Desktop\Development\AlphacamInterview\AlphacamInterviewWFA\Alphac
 C:\Users\small\Desktop\Development\AlphacamInterview\AlphacamInterviewWFA\AlphacamInterviewWFA\obj\Debug\AlphacamInterviewWFA.exe
 C:\Users\small\Desktop\Development\AlphacamInterview\AlphacamInterviewWFA\AlphacamInterviewWFA\obj\Debug\AlphacamInterviewWFA.pdb
 C:\Users\small\Desktop\Development\AlphacamInterview\AlphacamInterviewWFA\AlphacamInterviewWFA\obj\Debug\AlphacamInterviewWFA.Form1.resources
+C:\Users\small\Desktop\Development\AlphacamInterview\AlphacamInterviewWFA\AlphacamInterviewWFA\bin\Debug\AlphacamInterviewWFA.exe.manifest
+C:\Users\small\Desktop\Development\AlphacamInterview\AlphacamInterviewWFA\AlphacamInterviewWFA\bin\Debug\AlphacamInterviewWFA.application
+C:\Users\small\Desktop\Development\AlphacamInterview\AlphacamInterviewWFA\AlphacamInterviewWFA\obj\Debug\AlphacamInterviewWFA.exe.manifest
+C:\Users\small\Desktop\Development\AlphacamInterview\AlphacamInterviewWFA\AlphacamInterviewWFA\obj\Debug\AlphacamInterviewWFA.application

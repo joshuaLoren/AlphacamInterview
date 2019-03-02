@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="tableLayoutPanel2.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="tableLayoutPanel1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAWsAAACLCAMAAACQq0h8AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
         YQUAAACrUExURf///3+zzQAAAHuxzB0dG/Pz8/H3+nevyhoaGPr6+hQUERgYFuTk5AcHAH19fBAQDaKi
@@ -187,5 +187,8 @@
         tOIkcg316CstXtSLqanRTfg5S8VVsO7UIvK0eFQ9Y2r8UUs2UqOrViKlhaVMSGr8Vc51anwqE5Ia98qE
         pIZ6KyQ1cmogkxqPai4kNV54UliRBqpZp4daEK34FWjaP6WyEzU3fEerAAAAAElFTkSuQmCC
 </value>
+  </data>
+  <data name="textBox2.Text" xml:space="preserve">
+    <value>This program will generate a text file with 1000 random integers ranging from 0 to 100,000. The numbers generated will not be divisible by three and will not end in the number three. Choose a directory to save your text file:</value>
   </data>
 </root>
