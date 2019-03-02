@@ -34,8 +34,10 @@ namespace AlphacamInterviewWFA
 
             if (browse.ShowDialog() == System.Windows.Forms.DialogResult.OK)
             {
-                StreamWriter File = new StreamWriter();
-                MessageBox.Show(browse.SelectedPath);
+                using (StreamWriter ouputFile = new StreamWriter(Path.Combine(browse.SelectedPath, "1000numbers.txt"))) ;
+     
+                MessageBox.Show("1000numbers.txt generated in: " + browse.SelectedPath);
+  
             }
         }
     }
